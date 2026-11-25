@@ -1,5 +1,10 @@
 # Hydrocron Documentation
 
+:::{warning} DRAFT for review — not the live documentation
+This is a preview of upcoming documentation changes. It may describe features that are not live yet.
+The official documentation is at [podaac.github.io/hydrocron](https://podaac.github.io/hydrocron/).
+:::
+
 <a href="#"><img src="_generated_version.svg" alt="Hydrocron version badge" align="left"></a>
 <a href="https://zenodo.org/records/11176233"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11176233.svg" alt="DOI badge" align="left"></a>
 
